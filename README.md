@@ -26,8 +26,22 @@ This project demonstrates practical web scraping using `requests` and `Beautiful
 
 ## 📂 Project Structure
 
-├── scraper.py
-├── books.csv
-└── README.md
+├── scraper.py <br>
+├── books.csv <br>
+└── README.md <br>
+
+
+---
+
+## 🔧 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Sudhanshu-07-coder/Word-Scrapper-Project.git
+
+
+## Install required dependencies
+
+pip install requests beautifulsoup4
 
 
